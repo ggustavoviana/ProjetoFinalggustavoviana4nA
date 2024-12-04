@@ -7,6 +7,8 @@ Este projeto é um backend desenvolvido em TypeScript que utiliza o padrão MVC 
 Estrutura de Pastas e Arquivos
 A estrutura do projeto foi organizada em conformidade com o padrão MVC e contém os seguintes diretórios e arquivos:
 
+
+
 ├── src/                # Pasta principal do padrão MVC
 │   ├── config/         # Configurações do banco de dados
 │   │   └── database.ts # Arquivo de configuração da conexão ao banco de dados
@@ -33,6 +35,7 @@ A estrutura do projeto foi organizada em conformidade com o padrão MVC e conté
 ├── index.js            # Arquivo inicial do Node.js (usado para compatibilidade)
 ├── README.md           # Documentação do projeto
 ├── tsconfig.json       # Configuração do TypeScript
+
 
 
 
